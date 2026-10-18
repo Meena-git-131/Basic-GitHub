@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: blue;
+    background-color: white;
+}
+p{
+color: blue;
+background-color:white;
+}
+:hover p {
+    background-color: cadetblue;
+    color:black;
+}
+:hover h1{
+    background-color: cadetblue;
+    color: black;
+}
